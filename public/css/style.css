@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+header {
+    background: #007BFF;
+    color: #fff;
+    padding: 2rem 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+header p {
+    font-size: 1.2rem;
+    margin: 0.5rem 0 1.5rem;
+}
+
+header .btn {
+    background: #fff;
+    color: #007BFF;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1rem;
+}
+
+section#features {
+    padding: 2rem;
+    background: #fff;
+    margin: 1rem auto;
+}
+
+footer {
+    background: #333;
+    color: #fff;
+    padding: 1rem 0;
+    font-size: 0.9rem;
+}
